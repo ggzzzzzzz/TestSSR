@@ -10,7 +10,7 @@ I wrote some python scripts to collect free accounts from http://doub.bid/sszhfx
 
 Soon I found that latency was not good measurement for figuring out optimum accounts. I found a bandwidth speed test ultility, speedtest-cli. One day after I integrated speedtest-cli into my test program, I thought test youtube video download speed is better, instead of bandwidth speed test. I found youtube-dl in no time.
 
-At last, I tinkered with youtube-dl, subprocess, urllib2, requests and other python modules, created a test program for sorting out optimum accounts from dozens free accounts.
+At last, I tinkered with youtube-dl, subprocess, urllib2, requests and other python modules, created a test program for sorting out optimum accounts from dozens of free accounts.
 
 Pre-req:
 
